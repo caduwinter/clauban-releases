@@ -1,7 +1,7 @@
 {
-  "version": "0.1.1",
-  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.1.1/clauban.exe",
-  "sha256": "d8b99ebd516e375f9ea95e06fc1d32b36fb338afb6040234a288f3480152632c",
-  "notes": "roda do mouse como no Windows Terminal (alt acelera, shift passa pagina), colar sem duplicar e atualizacao automatica",
-  "published_at": "2026-09-15T15:55:46.274Z"
+  "version": "0.1.2",
+  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.1.2/clauban.exe",
+  "sha256": "8e2150b21fae80b52aac03ca477b60064a79050b514198013a5a16e74cc5555a",
+  "notes": "explica no terminal quando o antivirus derruba o processo, avisa se o app foi aberto do download e troca o exe sem passar pelo cmd.exe",
+  "published_at": "2026-09-15T17:21:21.228Z"
 }
