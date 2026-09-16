@@ -1,7 +1,7 @@
 {
-  "version": "0.1.4",
-  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.1.4/clauban.exe",
-  "sha256": "2cc20fa6c42223c57858557f796e895a33c7be3612f7bbca0e03a951fc4fdfc0",
-  "notes": "overlay flutuante, terminal nao embaralha ao minimizar e ctrl+shift+v cola uma vez so",
-  "published_at": "2026-09-16T15:07:54.381Z"
+  "version": "0.1.5",
+  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.1.5/clauban.exe",
+  "sha256": "09a3e79811690a80817a742d0cf1a2f2dfa4f79103fdc2ca3c23c3300dc2431f",
+  "notes": "selecao nao se perde mais ao rolar durante o arrasto",
+  "published_at": "2026-09-16T15:16:06.958Z"
 }
