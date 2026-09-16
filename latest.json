@@ -1,7 +1,7 @@
 {
-  "version": "0.1.7",
-  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.1.7/clauban.exe",
-  "sha256": "c9c6a3d20b63941bde28ad91abc2a0d755f7052765811932e1ca5fecedd5167e",
-  "notes": "colar print no claude, overlay arrumado com resumo e atalho para as configuracoes, plano nao some mais no 429, rodape enxuto",
-  "published_at": "2026-09-16T17:41:49.597Z"
+  "version": "0.1.8",
+  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.1.8/clauban.exe",
+  "sha256": "d6e1cb0d687f3718bba7186b1702ca5798840caf35a275aff5158e56c50b2ad4",
+  "notes": "Filtro no centro da barra, maior e com fichas do que está filtrado. Labels editáveis pelo quadro, por um botão de etiqueta novo. Cor por aba de terminal. Menus de botão direito só rolam quando precisam, com animação e hierarquia novas. Barra do Kanban reorganizada: nova sessão, lixeira e detalhes saíram da barra de título. O ícone novo entra no cache do Windows sozinho.",
+  "published_at": "2026-09-16T18:36:20.996Z"
 }
