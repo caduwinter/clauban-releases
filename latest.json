@@ -1,7 +1,7 @@
 {
-  "version": "0.1.6",
-  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.1.6/clauban.exe",
-  "sha256": "34903c99f12857113f77600695e62e544114f4bed33bec99cf945e3718c7536b",
-  "notes": "overlay no estilo do notch, bolinhas paradas e aparece sempre que voce sai do app; acoes das colunas sempre visiveis",
-  "published_at": "2026-09-16T17:18:59.321Z"
+  "version": "0.1.7",
+  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.1.7/clauban.exe",
+  "sha256": "c9c6a3d20b63941bde28ad91abc2a0d755f7052765811932e1ca5fecedd5167e",
+  "notes": "colar print no claude, overlay arrumado com resumo e atalho para as configuracoes, plano nao some mais no 429, rodape enxuto",
+  "published_at": "2026-09-16T17:41:49.597Z"
 }
