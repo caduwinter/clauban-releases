@@ -1,7 +1,7 @@
 {
-  "version": "0.1.9",
-  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.1.9/clauban.exe",
-  "sha256": "06eeb62d49829690aad4bfeb4a7b5dfd4d4494d6fdc14c51e3e95962ad8bda8f",
-  "notes": "Atualizar sem matar a sessao: os terminais vivem num processo separado e sobrevivem a troca do app. Overlay redesenhado. Correcoes no terminal: emoji, mouse e resize. Avisos repetidos viram um so.",
-  "published_at": "2026-09-17T18:04:30.017Z"
+  "version": "0.1.10",
+  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.1.10/clauban.exe",
+  "sha256": "1c33265e0305df070da32f4bc356b0a53e8128ce37a45b392bca399435d4001d",
+  "notes": "Texto e icones mais nitidos. O serrilhado vinha do ClearType em fundo preto puro; a escala de fontes agora e toda em pixel inteiro, com piso de 11px e o recorte optico certo da Segoe UI Variable. Icones com traco de espessura fixa na tela e piso de 12px. O hover nao apaga mais o item selecionado. Overlay: arrastar passa a mover a capsula sob o cursor, ela chega ao topo da tela e pode ficar sobre a barra de tarefas.",
+  "published_at": "2026-09-18T01:38:48.156Z"
 }
