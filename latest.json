@@ -1,7 +1,7 @@
 {
-  "version": "0.2.1",
-  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.2.1/clauban.exe",
-  "sha256": "3bed6ab03d4a81ff9cf2ebbb21307f21a4ed9f10cd4a4dcf404cd40e2abe7b49",
-  "notes": "Tela dividida no terminal: arraste uma aba, um chat da lista ou o cabecalho de um painel ate o terminal para dividir a tela (ate 4 paineis, divisorias arrastaveis, ctrl+\\ divide a direita). Cor so de estado: o marcador mostra sua vez, permissao, falhou, trabalhando (com o icone da ferramenta) ou parada no quadro, nos chats, nas abas e no notch, e aba do Claude nao se confunde mais com shell. Kanban com cartao novo (a branch aparece mesmo com pasta longa) e historico de chats em grupos recolhiveis. Notch: parar funciona, Enter mostra trabalhando na hora e Esc nao deixa a sessao presa. Claude no terminal nao vira lixo ao redimensionar: a largura espera ele parar de escrever, e Ajustar a largura reabre a conversa no tamanho novo.",
-  "published_at": "2026-10-01T03:11:14.981Z"
+  "version": "0.2.2",
+  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.2.2/clauban.exe",
+  "sha256": "dc94b9d91cbdab7ce73f7e19fc6539783674b65d4200a2ad063e02c11f928a1c",
+  "notes": "Claude abre na tela cheia por padrao, tambem para quem ja tinha instalado (a classica continua em Configuracoes > Terminal): ela redesenha a conversa inteira quando o painel muda de tamanho. Na tela classica, arrastar a divisoria entre dois chats nao embaralha mais a conversa: terminal e Claude mudam de tamanho juntos ao soltar, e a conversa reabre sozinha no tamanho novo quando o Claude esta parado, sem rascunho e sem comando rodando em segundo plano (so nesse ultimo caso aparece o Ajustar a largura). Reiniciar ou reabrir uma aba num painel ao lado nao rouba mais o foco de onde voce esta digitando.",
+  "published_at": "2026-10-01T12:08:25.199Z"
 }
