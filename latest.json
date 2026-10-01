@@ -1,7 +1,7 @@
 {
-  "version": "0.2.0",
-  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.2.0/clauban.exe",
-  "sha256": "d5d9ba59ee935852e0622583c76cb487a0b19164327eef804e25b0eab739292b",
-  "notes": "Hooks do Claude Code: o notch passa a mostrar o passo a passo real de cada sessao, as tarefas, o que mudou em cada arquivo, e atende o pedido de permissao sem ir ao terminal. Overlay com desenho de notch e animacao por mola. Tres bugs achados em revisao e corrigidos: o anuncio dos hooks sobrevivia ao fechamento do app e podia travar um pedido de permissao por 110s; o retrato para quem abre depois deixava sessao presa em permissao; e um settings.json com hooks malformado era silenciosamente descartado.",
-  "published_at": "2026-09-30T23:18:13.258Z"
+  "version": "0.2.1",
+  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.2.1/clauban.exe",
+  "sha256": "3bed6ab03d4a81ff9cf2ebbb21307f21a4ed9f10cd4a4dcf404cd40e2abe7b49",
+  "notes": "Tela dividida no terminal: arraste uma aba, um chat da lista ou o cabecalho de um painel ate o terminal para dividir a tela (ate 4 paineis, divisorias arrastaveis, ctrl+\\ divide a direita). Cor so de estado: o marcador mostra sua vez, permissao, falhou, trabalhando (com o icone da ferramenta) ou parada no quadro, nos chats, nas abas e no notch, e aba do Claude nao se confunde mais com shell. Kanban com cartao novo (a branch aparece mesmo com pasta longa) e historico de chats em grupos recolhiveis. Notch: parar funciona, Enter mostra trabalhando na hora e Esc nao deixa a sessao presa. Claude no terminal nao vira lixo ao redimensionar: a largura espera ele parar de escrever, e Ajustar a largura reabre a conversa no tamanho novo.",
+  "published_at": "2026-10-01T03:11:14.981Z"
 }
