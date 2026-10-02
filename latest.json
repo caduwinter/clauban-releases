@@ -1,7 +1,7 @@
 {
-  "version": "0.2.2",
-  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.2.2/clauban.exe",
-  "sha256": "dc94b9d91cbdab7ce73f7e19fc6539783674b65d4200a2ad063e02c11f928a1c",
-  "notes": "Claude abre na tela cheia por padrao, tambem para quem ja tinha instalado (a classica continua em Configuracoes > Terminal): ela redesenha a conversa inteira quando o painel muda de tamanho. Na tela classica, arrastar a divisoria entre dois chats nao embaralha mais a conversa: terminal e Claude mudam de tamanho juntos ao soltar, e a conversa reabre sozinha no tamanho novo quando o Claude esta parado, sem rascunho e sem comando rodando em segundo plano (so nesse ultimo caso aparece o Ajustar a largura). Reiniciar ou reabrir uma aba num painel ao lado nao rouba mais o foco de onde voce esta digitando.",
-  "published_at": "2026-10-01T12:08:25.199Z"
+  "version": "0.2.3",
+  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.2.3/clauban.exe",
+  "sha256": "2ea8d814633bf7686d31df0dceb910114ce4005ac3d410bfaf65c36e7a469ea2",
+  "notes": "Cartao do Kanban: pasta, branch e runtime nao vazam mais para fora do cartao; a pasta encolhe antes da branch. Notch: a tarefa nova abre a aba do Claude em segundo plano, sem o app pular para o terminal, e o duplo clique na lista nao abre mais o app junto. O uso do plano saiu do centro do cabecalho para o rodape (o painel abre para cima), deixando o topo livre para o notch. Linha de status do terminal: nada mais pinta por cima da coluna e dos botoes em painel estreito; quem nao cabe sai inteiro, e detalhes e terminal externo ficam no menu.",
+  "published_at": "2026-10-02T17:19:55.864Z"
 }
