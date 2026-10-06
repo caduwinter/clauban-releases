@@ -1,7 +1,7 @@
 {
-  "version": "0.2.3",
-  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.2.3/clauban.exe",
-  "sha256": "2ea8d814633bf7686d31df0dceb910114ce4005ac3d410bfaf65c36e7a469ea2",
-  "notes": "Cartao do Kanban: pasta, branch e runtime nao vazam mais para fora do cartao; a pasta encolhe antes da branch. Notch: a tarefa nova abre a aba do Claude em segundo plano, sem o app pular para o terminal, e o duplo clique na lista nao abre mais o app junto. O uso do plano saiu do centro do cabecalho para o rodape (o painel abre para cima), deixando o topo livre para o notch. Linha de status do terminal: nada mais pinta por cima da coluna e dos botoes em painel estreito; quem nao cabe sai inteiro, e detalhes e terminal externo ficam no menu.",
-  "published_at": "2026-10-02T17:19:55.864Z"
+  "version": "0.2.4",
+  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.2.4/clauban.exe",
+  "sha256": "d010bab7d91d316d0caf64df06ff234fb572d54d660d55bbba3578356195cf5f",
+  "notes": "Icone novo do app: o balao do sua vez em neon, com as colunas do quadro dentro, na barra de tarefas, nos atalhos e no canto da janela.",
+  "published_at": "2026-10-06T19:55:51.233Z"
 }
