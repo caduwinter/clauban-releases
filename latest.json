@@ -1,7 +1,7 @@
 {
-  "version": "0.2.4",
-  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.2.4/clauban.exe",
-  "sha256": "d010bab7d91d316d0caf64df06ff234fb572d54d660d55bbba3578356195cf5f",
-  "notes": "Icone novo do app: o balao do sua vez em neon, com as colunas do quadro dentro, na barra de tarefas, nos atalhos e no canto da janela.",
-  "published_at": "2026-10-06T19:55:51.233Z"
+  "version": "0.2.5",
+  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.2.5/clauban.exe",
+  "sha256": "cb90cb2fae489659667911a2f243d1565543c983c5f256c4f28da5ce5b837b96",
+  "notes": "Icone do app redesenhado: sem a placa escura, o proprio balao do sua vez em neon e o icone, com as colunas do quadro dentro.",
+  "published_at": "2026-10-07T12:21:14.216Z"
 }
