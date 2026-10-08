@@ -1,7 +1,7 @@
 {
-  "version": "0.2.5",
-  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.2.5/clauban.exe",
-  "sha256": "cb90cb2fae489659667911a2f243d1565543c983c5f256c4f28da5ce5b837b96",
-  "notes": "Icone do app redesenhado: sem a placa escura, o proprio balao do sua vez em neon e o icone, com as colunas do quadro dentro.",
-  "published_at": "2026-10-07T12:21:14.216Z"
+  "version": "0.2.6",
+  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.2.6/clauban.exe",
+  "sha256": "c45d92ad7a960c39988fe9c5a8ea87251136055c1ab3a04076090322fb66496e",
+  "notes": "O app reabre como estava: depois de fechar, travar ou o PC desligar, as abas voltam com nome, cor, grupos, a aba da frente e a tela dividida. Cada aba so liga quando aparece (as outras esperam o clique); o Claude retoma a conversa e o shell abre na mesma pasta.",
+  "published_at": "2026-10-08T12:31:22.300Z"
 }
