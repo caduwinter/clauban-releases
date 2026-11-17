@@ -1,7 +1,7 @@
 {
-  "version": "0.2.6",
-  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.2.6/clauban.exe",
-  "sha256": "c45d92ad7a960c39988fe9c5a8ea87251136055c1ab3a04076090322fb66496e",
-  "notes": "O app reabre como estava: depois de fechar, travar ou o PC desligar, as abas voltam com nome, cor, grupos, a aba da frente e a tela dividida. Cada aba so liga quando aparece (as outras esperam o clique); o Claude retoma a conversa e o shell abre na mesma pasta.",
-  "published_at": "2026-10-08T12:31:22.300Z"
+  "version": "0.3.0",
+  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.3.0/clauban.exe",
+  "sha256": "3a18d046f2f6ea83012664a2075178374f71eeae83df0b3864deaaf9d66417f6",
+  "notes": "Abas no cabecalho com o Quadro fixo e a lista lateral recolhida no trilho. Quadro (Kanban) redesenhado numa grade unica, com icones novos. Tela Ao vivo virou painel de controle: atender permissao e responder sem abrir a sessao. Nova sessao direta: escreva o pedido e escolha pasta, modelo (Fable, Opus, Sonnet, Haiku, versoes fixas) e permissoes. Menus e paineis encaixam na tela e animam a partir do botao. Painel de uso refeito, com uso por modelo e por dia. Abrir um chat ficou mais rapido.",
+  "published_at": "2026-11-17T13:42:34.329Z"
 }
