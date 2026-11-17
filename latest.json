@@ -1,7 +1,7 @@
 {
-  "version": "0.3.0",
-  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.3.0/clauban.exe",
-  "sha256": "3a18d046f2f6ea83012664a2075178374f71eeae83df0b3864deaaf9d66417f6",
-  "notes": "Abas no cabecalho com o Quadro fixo e a lista lateral recolhida no trilho. Quadro (Kanban) redesenhado numa grade unica, com icones novos. Tela Ao vivo virou painel de controle: atender permissao e responder sem abrir a sessao. Nova sessao direta: escreva o pedido e escolha pasta, modelo (Fable, Opus, Sonnet, Haiku, versoes fixas) e permissoes. Menus e paineis encaixam na tela e animam a partir do botao. Painel de uso refeito, com uso por modelo e por dia. Abrir um chat ficou mais rapido.",
-  "published_at": "2026-11-17T13:42:34.329Z"
+  "version": "0.3.1",
+  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.3.1/clauban.exe",
+  "sha256": "fd8707322e45cd84c93f7c1302f1d26b4c3a23e98d3feaaf7666eddcb19cd366",
+  "notes": "Ao vivo virou um telao: todas as sessoes na tela ao mesmo tempo, cada uma com a conversa inteira e as acoes (responder, permitir, parar, abrir). Duplo clique amplia uma sessao. As abas de cima param antes do notch.",
+  "published_at": "2026-11-17T14:37:49.693Z"
 }
