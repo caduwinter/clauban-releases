@@ -1,7 +1,7 @@
 {
-  "version": "0.4.3",
-  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.4.3/clauban.exe",
-  "sha256": "fd6f1139fd03ee0400eddc21966338dfd28a79bed0f256d7450e06b3c968cf88",
-  "notes": "Revisar: o diff nao fica mais preso em Lendo enquanto o agente trabalha, e trocar de arquivo e na hora. Lista de arquivos em arvore como no VS Code, com pastas que recolhem e marcar pasta como vista. Destaque de sintaxe com as cores do VS Code e PHP, SQL, Ruby, HTML/Vue, conf e Dockerfile.",
-  "published_at": "2026-11-19T19:51:22.102Z"
+  "version": "0.4.4",
+  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.4.4/clauban.exe",
+  "sha256": "346ecf21d29a9fe5d69a297c6cf959de4265abc75eee9fc92ba6a0f17fb8e880",
+  "notes": "ctrl+espaco: paleta para achar e ir a qualquer sessao, tela, acao, tema ou arquivo alterado. Revisar mais rapida: o git le com 1 processo quando nada mudou e todos os diffs de uma vez; a tela parada gasta 3x menos CPU. Revisar: arrastar para alargar a lista, zoom da letra, apagado e novo lado a lado, palavras alteradas marcadas, diff enorme aos poucos.",
+  "published_at": "2026-11-19T20:45:05.514Z"
 }
