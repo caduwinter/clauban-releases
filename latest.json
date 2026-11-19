@@ -1,7 +1,7 @@
 {
-  "version": "0.3.2",
-  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.3.2/clauban.exe",
-  "sha256": "8eaabf52ec8c1e8d2aa7f900270062ca5f2a1b52b4f92b39f7ee72c41796096e",
-  "notes": "Ao vivo virou sala de controle: cada painel e o terminal de verdade (digitar, rolar historico, selecionar), divisorias para redimensionar, atalhos ctrl+alt para andar entre paineis, filtros e letra propria. Com o notch em cima, a barra ganha uma faixa so dele e as abas ficam inteiras embaixo; abas que nao cabem vao para o menu +N. Notch so com icones. Aviso de atualizar na barra de titulo.",
-  "published_at": "2026-11-19T12:58:17.881Z"
+  "version": "0.4.0",
+  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.4.0/clauban.exe",
+  "sha256": "9bb194a1dd4c4950826827e837fdcfd565f4bee62d23250de8d78707e2416848",
+  "notes": "Clauban 0.4.0: navegacao nova pela lateral (Ao vivo, Sessoes, Revisar). Ao vivo com doca, miniaturas, achar sessao no ctrl+f e Revisar direto pelo agente. Revisar refeita: visao geral de repos e worktrees, diffs com destaque de sintaxe, comentar trechos, busca ctrl+f, ir para arquivo, um arquivo por vez, agentes ao lado, atualizacao em tempo real, skills configuraveis e commit/PR em varios repos. Sessoes refeita, agrupada por dia. Notch com o uso do plano no hover. Botao Nova sessao novo, toasts novos e abrir no VS Code ou Cursor.",
+  "published_at": "2026-11-19T17:58:52.464Z"
 }
