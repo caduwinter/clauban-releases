@@ -1,7 +1,7 @@
 {
-  "version": "0.4.4",
-  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.4.4/clauban.exe",
-  "sha256": "346ecf21d29a9fe5d69a297c6cf959de4265abc75eee9fc92ba6a0f17fb8e880",
-  "notes": "ctrl+espaco: paleta para achar e ir a qualquer sessao, tela, acao, tema ou arquivo alterado. Revisar mais rapida: o git le com 1 processo quando nada mudou e todos os diffs de uma vez; a tela parada gasta 3x menos CPU. Revisar: arrastar para alargar a lista, zoom da letra, apagado e novo lado a lado, palavras alteradas marcadas, diff enorme aos poucos.",
-  "published_at": "2026-11-19T20:45:05.514Z"
+  "version": "0.4.5",
+  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.4.5/clauban.exe",
+  "sha256": "567bb36ec8f978dba214b3dab411601e0394f80a5069b8fe58d4c57b5aa8d628",
+  "notes": "Icones centralizados no pixel e chips de estado iguais ao notch; busca no meio da janela; paleta ctrl+espaco nova; terminal de verdade na pilula da doca; previa da doca em formato de chat; tres pontos para trabalhando",
+  "published_at": "2026-11-19T22:26:53.239Z"
 }
