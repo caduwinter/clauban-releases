@@ -1,7 +1,7 @@
 {
-  "version": "0.4.2",
-  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.4.2/clauban.exe",
-  "sha256": "feb8b174690c0f5b8e2da294370dfacf61310c66bd02409b479f5014e31705ed",
-  "notes": "Licoes: o que o Claude erra toda vez nas suas conversas, com o custo e a regra que ensina ele a parar (em Sessoes). Imagens: soltar arquivo em qualquer sessao (Ao vivo, terminal dividido, previa, aba da lateral) e colar imagem nas caixas de resposta e na Nova sessao. Nova sessao abre no Ao vivo e ja vem no terminal preferido. Fechar aba direto no Ao vivo. Sem restos do quadro.",
-  "published_at": "2026-11-19T19:27:05.542Z"
+  "version": "0.4.3",
+  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.4.3/clauban.exe",
+  "sha256": "fd6f1139fd03ee0400eddc21966338dfd28a79bed0f256d7450e06b3c968cf88",
+  "notes": "Revisar: o diff nao fica mais preso em Lendo enquanto o agente trabalha, e trocar de arquivo e na hora. Lista de arquivos em arvore como no VS Code, com pastas que recolhem e marcar pasta como vista. Destaque de sintaxe com as cores do VS Code e PHP, SQL, Ruby, HTML/Vue, conf e Dockerfile.",
+  "published_at": "2026-11-19T19:51:22.102Z"
 }
