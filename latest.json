@@ -1,7 +1,7 @@
 {
-  "version": "0.4.1",
-  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.4.1/clauban.exe",
-  "sha256": "7656ccf13dd0bb5f6c9b61e9d0e5785abe3ba7f5686f6288f88fe35df05fc544",
-  "notes": "Ao vivo: fechar a aba direto no painel (com Reabrir); minimizadas a mao ficam na doca ate voltar ao telao. Revisar: lado a lado volta a funcionar. Respostas do Claude com tabelas, citacoes, tarefas e links; menu de agentes sem sobreposicao.",
-  "published_at": "2026-11-19T18:24:26.675Z"
+  "version": "0.4.2",
+  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.4.2/clauban.exe",
+  "sha256": "feb8b174690c0f5b8e2da294370dfacf61310c66bd02409b479f5014e31705ed",
+  "notes": "Licoes: o que o Claude erra toda vez nas suas conversas, com o custo e a regra que ensina ele a parar (em Sessoes). Imagens: soltar arquivo em qualquer sessao (Ao vivo, terminal dividido, previa, aba da lateral) e colar imagem nas caixas de resposta e na Nova sessao. Nova sessao abre no Ao vivo e ja vem no terminal preferido. Fechar aba direto no Ao vivo. Sem restos do quadro.",
+  "published_at": "2026-11-19T19:27:05.542Z"
 }
