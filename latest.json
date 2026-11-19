@@ -1,7 +1,7 @@
 {
-  "version": "0.4.0",
-  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.4.0/clauban.exe",
-  "sha256": "9bb194a1dd4c4950826827e837fdcfd565f4bee62d23250de8d78707e2416848",
-  "notes": "Clauban 0.4.0: navegacao nova pela lateral (Ao vivo, Sessoes, Revisar). Ao vivo com doca, miniaturas, achar sessao no ctrl+f e Revisar direto pelo agente. Revisar refeita: visao geral de repos e worktrees, diffs com destaque de sintaxe, comentar trechos, busca ctrl+f, ir para arquivo, um arquivo por vez, agentes ao lado, atualizacao em tempo real, skills configuraveis e commit/PR em varios repos. Sessoes refeita, agrupada por dia. Notch com o uso do plano no hover. Botao Nova sessao novo, toasts novos e abrir no VS Code ou Cursor.",
-  "published_at": "2026-11-19T17:58:52.464Z"
+  "version": "0.4.1",
+  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.4.1/clauban.exe",
+  "sha256": "7656ccf13dd0bb5f6c9b61e9d0e5785abe3ba7f5686f6288f88fe35df05fc544",
+  "notes": "Ao vivo: fechar a aba direto no painel (com Reabrir); minimizadas a mao ficam na doca ate voltar ao telao. Revisar: lado a lado volta a funcionar. Respostas do Claude com tabelas, citacoes, tarefas e links; menu de agentes sem sobreposicao.",
+  "published_at": "2026-11-19T18:24:26.675Z"
 }
