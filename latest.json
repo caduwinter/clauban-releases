@@ -1,7 +1,7 @@
 {
-  "version": "0.4.7",
-  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.4.7/clauban.exe",
-  "sha256": "2df93537fd48fdb14b0445aff1ae43f56b96e4dee31a36a5e5690376c674a6a5",
-  "notes": "Ao vivo em mosaico: arraste um painel para a borda de outro para dividir ali ou para o meio para trocar, toda borda redimensiona, soltar na doca minimiza e a pilula volta no lugar escolhido, menu Arrumar (grade, colunas, linhas, destaque). Doca: a espiada ja da o teclado com o mouse em cima e recolhe ao sair, gaveta no clique, janelinha flutuante e terminal em vidro ajustavel. Notch mais direto: permitir pelo hover, o que mudou com Revisar e o uso da conta em barras. Ctrl+espaco busca dentro das conversas. O diff grifa so o trecho selecionado. Menus enxutos, icone novo e mais rapido.",
-  "published_at": "2026-11-23T01:41:42.761Z"
+  "version": "0.4.8",
+  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.4.8/clauban.exe",
+  "sha256": "d7b49e695f1951b331ebab07922289d0dd770f839d4816f6034f7bea8e175d8f",
+  "notes": "Resposta do Claude na espiada com markdown e tabelas; Revisar nao some mais com o repositorio quando o git falha uma vez e mostra o erro do git; anel de uso no lugar certo na lateral",
+  "published_at": "2026-11-23T18:03:12.550Z"
 }
