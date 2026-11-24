@@ -1,7 +1,7 @@
 {
-  "version": "0.4.9",
-  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.4.9/clauban.exe",
-  "sha256": "0530178c7a5277925e3495449c7169aa2e9dfc44e8a7a247b0f8d6145e69f17c",
-  "notes": "Revisar acha todos os repositorios em que a sessao mexeu (arquivos editados, cd e git -C, sessoes fora do Clauban e abas fechadas); x na linha tira um repositorio da Revisar, com desfazer, e o + poe de volta ou adiciona qualquer pasta, WSL incluido",
-  "published_at": "2026-11-24T14:15:27.150Z"
+  "version": "0.4.10",
+  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.4.10/clauban.exe",
+  "sha256": "b9a092f0d5e7528a87121b842497a3659ff0e43a9a63d1a957d04b0eb5ce4833",
+  "notes": "Com o WSL pesado os cards nao viram mais 'sem sessao' e a aba que acorda retoma a conversa em vez de comecar outra; chat novo mostra 'abrindo' com o terminal em branco, 'parada' assim que o Claude sobe, e ganha titulo e conversa logo no primeiro pedido",
+  "published_at": "2026-11-24T16:35:26.997Z"
 }
