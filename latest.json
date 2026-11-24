@@ -1,7 +1,7 @@
 {
-  "version": "0.4.10",
-  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.4.10/clauban.exe",
-  "sha256": "b9a092f0d5e7528a87121b842497a3659ff0e43a9a63d1a957d04b0eb5ce4833",
-  "notes": "Com o WSL pesado os cards nao viram mais 'sem sessao' e a aba que acorda retoma a conversa em vez de comecar outra; chat novo mostra 'abrindo' com o terminal em branco, 'parada' assim que o Claude sobe, e ganha titulo e conversa logo no primeiro pedido",
-  "published_at": "2026-11-24T16:35:26.997Z"
+  "version": "0.4.11",
+  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.4.11/clauban.exe",
+  "sha256": "81eb1a001978308777c03dcf875c079c4aed759684ed4daeadeb72bb430d4ecb",
+  "notes": "Com a janela maximizada e o notch ligado, a busca do topo vai para a direita, ao lado dos botoes, com o atalho a vista, e o meio fica livre para o notch; a dica de um botao que some (o parar no fim do turno) nao fica mais presa na tela",
+  "published_at": "2026-11-24T17:11:27.475Z"
 }
