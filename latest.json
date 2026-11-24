@@ -1,7 +1,7 @@
 {
-  "version": "0.4.8",
-  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.4.8/clauban.exe",
-  "sha256": "d7b49e695f1951b331ebab07922289d0dd770f839d4816f6034f7bea8e175d8f",
-  "notes": "Resposta do Claude na espiada com markdown e tabelas; Revisar nao some mais com o repositorio quando o git falha uma vez e mostra o erro do git; anel de uso no lugar certo na lateral",
-  "published_at": "2026-11-23T18:03:12.550Z"
+  "version": "0.4.9",
+  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.4.9/clauban.exe",
+  "sha256": "0530178c7a5277925e3495449c7169aa2e9dfc44e8a7a247b0f8d6145e69f17c",
+  "notes": "Revisar acha todos os repositorios em que a sessao mexeu (arquivos editados, cd e git -C, sessoes fora do Clauban e abas fechadas); x na linha tira um repositorio da Revisar, com desfazer, e o + poe de volta ou adiciona qualquer pasta, WSL incluido",
+  "published_at": "2026-11-24T14:15:27.150Z"
 }
