@@ -1,7 +1,7 @@
 {
-  "version": "0.4.12",
-  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.4.12/clauban.exe",
-  "sha256": "9fbb93c4cacc6428f945d0be23c5c6b3e51e3c2c45ff7f1b6b15cab5a486fa61",
-  "notes": "Ao vivo como multiplexador: paineis colados com faixa de 24 px, comando na barra de permissao, encerradas vao sozinhas para a doca, sessao nova divide o painel com o teclado, alt+shift+setas muda o tamanho, sem filtros nem faixa (arrumar e nova sessao na barra da janela), entrelinha mais justa, botao direito na faixa do painel com renomear, doca em abas de duas linhas e espiadas que saem da aba. alt+1/2/3 abrem Ao vivo, Sessoes e Revisar.",
-  "published_at": "2026-11-26T01:42:57.701Z"
+  "version": "0.4.13",
+  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.4.13/clauban.exe",
+  "sha256": "8aaf0e5d8e14af73047fc40d80d038e84a906ca0c6851a30f170528c79232d4a",
+  "notes": "Permissao respondida no terminal sai da barra, da doca e do notch. Abas voltam depois de o app cair, e o app avisa quando foi aberto de dentro do Claude. Links do terminal abrem com ctrl+clique, sem o aviso de inseguro e com o & inteiro. Ao vivo abre ~3x mais rapido e a Revisar ficou mais leve. Paleta ctrl+espaco com lista e previa ao lado.",
+  "published_at": "2026-11-26T19:47:22.522Z"
 }
