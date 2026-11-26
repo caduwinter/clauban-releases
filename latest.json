@@ -1,7 +1,7 @@
 {
-  "version": "0.4.11",
-  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.4.11/clauban.exe",
-  "sha256": "81eb1a001978308777c03dcf875c079c4aed759684ed4daeadeb72bb430d4ecb",
-  "notes": "Com a janela maximizada e o notch ligado, a busca do topo vai para a direita, ao lado dos botoes, com o atalho a vista, e o meio fica livre para o notch; a dica de um botao que some (o parar no fim do turno) nao fica mais presa na tela",
-  "published_at": "2026-11-24T17:11:27.475Z"
+  "version": "0.4.12",
+  "url": "https://github.com/caduwinter/clauban-releases/releases/download/v0.4.12/clauban.exe",
+  "sha256": "9fbb93c4cacc6428f945d0be23c5c6b3e51e3c2c45ff7f1b6b15cab5a486fa61",
+  "notes": "Ao vivo como multiplexador: paineis colados com faixa de 24 px, comando na barra de permissao, encerradas vao sozinhas para a doca, sessao nova divide o painel com o teclado, alt+shift+setas muda o tamanho, sem filtros nem faixa (arrumar e nova sessao na barra da janela), entrelinha mais justa, botao direito na faixa do painel com renomear, doca em abas de duas linhas e espiadas que saem da aba. alt+1/2/3 abrem Ao vivo, Sessoes e Revisar.",
+  "published_at": "2026-11-26T01:42:57.701Z"
 }
